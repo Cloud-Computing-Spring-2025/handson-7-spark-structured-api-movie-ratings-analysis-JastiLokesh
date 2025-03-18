@@ -205,10 +205,11 @@ A list of departments meeting the specified criteria, along with the correspondi
 
 **Example Output:**
 
-| Age Group   | Binge Watchers | Percentage |
+| AgeGroup    | BingeWatchers  | Percentage |
 |-------------|----------------|------------|
-| Teen        | 195            | 45%        |
-| Adult       | 145            | 38%        |
+| Senior      | 15             | 44.12      |
+| Teen        | 20             | 54.05      |
+| Adult       | 15             | 51.72      |
 
 ---
 
@@ -233,7 +234,7 @@ A count of users who **canceled their subscriptions and had low engagement**, hi
 
 |Churn Risk Users                                  |	Total Users |
 |--------------------------------------------------|--------------|
-|Users with low watch time & canceled subscriptions|	350         |
+|Users with low watch time & canceled subscriptions|	13          |
 
 
 
@@ -257,12 +258,16 @@ A summary of **movie-watching trends** over the years, indicating peak years for
 
 **Example Output:**  
 
-| Watched Year | Movies watched |
+| Watched Year | Movies Watched |
 |--------------|----------------|
-| 2020         | 1200           |
-| 2021         | 1500           |
-| 2022         | 2100           |
-| 2023         | 2800           |
+| 2018         | 19             |
+| 2019         | 12             |
+| 2020         | 21             |
+| 2021         | 14             |
+| 2022         | 18             |
+| 2023         | 16             |
+
+
 
 
 ---
